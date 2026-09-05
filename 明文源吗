@@ -288,37 +288,33 @@ const 直连域名列表 = [{
 }, {
   domain: "cdn.2020111.xyz"
 }, {
-  domain: "cfip.cfcdn.vip"
-}, {
   domain: "cf.0sm.com"
 }, {
   domain: "cf.090227.xyz"
 }, {
-  domain: "cf.zhetengsha.eu.org"
-}, {
-  domain: "cloudflare.9jy.cc"
-}, {
-  domain: "cf.zerone-cdn.pp.ua"
+  domain: "xn--b6gac.eu.org"
 }, {
   domain: "cfip.1323123.xyz"
 }, {
-  domain: "cnamefuckxxs.yuchen.icu"
-}, {
   domain: "cloudflare-ip.mofashi.ltd"
-}, {
-  domain: "115155.xyz"
-}, {
-  domain: "cname.xirancdn.us"
-}, {
-  domain: "f3058171cad.002404.xyz"
-}, {
-  domain: "8.889288.xyz"
 }, {
   domain: "cdn.tzpro.xyz"
 }, {
+  domain: "cf.877774.xyz"
+}, {
   domain: "cf.877771.xyz"
 }, {
-  domain: "xn--b6gac.eu.org"
+  domain: "b3.cfyx.20237737.xyz"
+}, {
+  domain: "cnamefuckxxs.yuchen.icu"
+}, {
+  domain: "vip.cf.3666888.xyz"
+}, {
+  domain: "saas.sin.fan "
+}, {
+  domain: "csgo.com"
+}, {
+  domain: "staticdelivery.nexusmods.com"
 }];
 const 错误_无效数据 = atob('aW52YWxpZCBkYXRh');
 const 错误_无效用户 = atob('aW52YWxpZCB1c2Vy');
