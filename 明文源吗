@@ -276,46 +276,23 @@ let 备用地址列表 = [{
   port: 443
 }];
 const 直连域名列表 = [{
-  name: "cloudflare.182682.xyz",
-  domain: "cloudflare.182682.xyz"
-}, {
-  name: "speed.marisalnc.com",
-  domain: "speed.marisalnc.com"
-}, {
-  domain: "freeyx.cloudflare88.eu.org"
-}, {
-  domain: "bestcf.top"
-}, {
-  domain: "cdn.2020111.xyz"
-}, {
-  domain: "cf.0sm.com"
-}, {
-  domain: "cf.090227.xyz"
-}, {
-  domain: "xn--b6gac.eu.org"
-}, {
-  domain: "cfip.1323123.xyz"
-}, {
-  domain: "cloudflare-ip.mofashi.ltd"
-}, {
-  domain: "cdn.tzpro.xyz"
-}, {
-  domain: "cf.877774.xyz"
-}, {
-  domain: "cf.877771.xyz"
-}, {
-  domain: "b3.cfyx.20237737.xyz"
-}, {
-  domain: "cnamefuckxxs.yuchen.icu"
-}, {
-  domain: "vip.cf.3666888.xyz"
-}, {
-  domain: "saas.sin.fan "
-}, {
-  domain: "csgo.com"
-}, {
-  domain: "staticdelivery.nexusmods.com"
-}];
+  name: "cf.090227.xyz",
+  domain: "cf.090227.xyz"}, 
+{ domain: "bestcf.top" },
+{ domain: "saas.sin.fan" },
+{ domain: "freeyx.cloudflare88.eu.org" },
+{ domain: "cf.468123.xyz" },
+{ domain: "cloudflare-dualstack.22336666.xyz" },
+{ domain: "cloudflare.182682.xyz" },
+{ domain: "cf.130519.xyz" },
+{ domain: "cloudflare-ip.mofashi.ltd" },
+{ domain: "cf.877771.xyz" },
+{ domain: "b3.cfyx.20237737.xyz" },
+{ domain: "cnamefuckxxs.yuchen.icu" },
+{ domain: "cf.877774.xyz" },
+{ domain: "cf.3666888.xyz" },
+{ domain: "csgo.com" },
+{ domain: "staticdelivery.nexusmods.com" }];
 const 错误_无效数据 = atob('aW52YWxpZCBkYXRh');
 const 错误_无效用户 = atob('aW52YWxpZCB1c2Vy');
 const 错误_不支持命令 = atob('Y29tbWFuZCBpcyBub3Qgc3VwcG9ydGVk');
